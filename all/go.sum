@@ -1,0 +1,6 @@
+github.com/flyzstu/mylog v0.2.1 h1:92lGQuk4JyG9XCGG6EECqnXQ27IOAq9gBvpYHZt0ZI0=
+github.com/flyzstu/mylog v0.2.1/go.mod h1:TrEcZ9li6SGU8mSuGBFc5BUnIttIXtGdKZyCQY4mPZo=
+github.com/gocarina/gocsv v0.0.0-20220927221512-ad3251f9fa25 h1:wxgEEZvsnOTrDO2npSSKUMDx5IykfoGmro+/Vjc1BQ8=
+github.com/gocarina/gocsv v0.0.0-20220927221512-ad3251f9fa25/go.mod h1:5YoVOkjYAQumqlV356Hj3xeYh4BdZuLE0/nRkf2NKkI=
+github.com/goccy/go-json v0.9.11 h1:/pAaQDLHEoCq/5FFmSKBswWmK6H0e8g4159Kc/X/nqk=
+github.com/goccy/go-json v0.9.11/go.mod h1:6MelG93GURQebXPDq3khkgXZkazVtN9CRI+MGFi0w8I=

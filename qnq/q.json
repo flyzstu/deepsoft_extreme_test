@@ -1,0 +1,44 @@
+{
+  "msg": "数据获取成功",
+  "code": 200,
+  "data": {
+    "nocode": "1KNxNanClQ5L",
+    "data": [
+      {
+        "question_text": "http://test1.deepsoft-tech.com:6789/question/6463897.html",
+        "analysis_url": "http://test1.deepsoft-tech.com:6789/answer/6463897.html",
+        "orig_knowledge_points_links": [
+          {
+            "img": "http://oss.deepsoft-tech.com:9000/knowledge/knowledgeimg/小数乘法运算律.jpg",
+            "link": "http://oss.deepsoft-tech.com:9000/knowledge/video/1dd8092f-0350-4d0e-8a60-377209791f484.XiaoShuChengFaYunSuanLv.MP4"
+          }
+        ]
+      },
+      {
+        "question_text": "http://test1.deepsoft-tech.com:6789/question/1267563.html",
+        "analysis_url": "http://test1.deepsoft-tech.com:6789/answer/1267563.html",
+        "orig_knowledge_points_links": [
+          {
+            "img": "http://oss.deepsoft-tech.com:9000/knowledge/knowledgeimg/加法运算定律.jpg",
+            "link": "http://oss.deepsoft-tech.com:9000/knowledge/video/bc0e8adc-4108-42a1-b48a-27b7dcc054a112.加法运算定律.MP4"
+          }
+        ]
+      },
+      {
+        "question_text": "http://test1.deepsoft-tech.com:6789/question/40685093.html",
+        "analysis_url": "http://test1.deepsoft-tech.com:6789/answer/40685093.html",
+        "orig_knowledge_points_links": [
+          {
+            "img": "http://oss.deepsoft-tech.com:9000/knowledge/knowledgeimg/小数加减混合运算.jpg",
+            "link": "http://oss.deepsoft-tech.com:9000/knowledge/video/6ed10dd8-cf16-42c1-a15f-bbea198ef04c28.小数加减混合运算.MP4"
+          },
+          {
+            "img": "http://oss.deepsoft-tech.com:9000/knowledge/knowledgeimg/整数运算定律推广到小数.jpg",
+            "link": "http://oss.deepsoft-tech.com:9000/knowledge/video/26d6f60f-5fc2-4bcb-9960-bfaad9d38cd529.整数加法运算定律推广到小数.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  "businessCode": -1
+}

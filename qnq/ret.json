@@ -1,0 +1,151 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "knowledge_points": [
+        "圆的周长"
+      ],
+      "orig_knowledge_points": [
+        "圆的周长"
+      ],
+      "processed_text": "用圆规画一个周长是6.28厘米的圆,圆规两脚之间的距离是( )。 A.1厘米 B.2厘米 C.6.28厘米",
+      "question_id": "3558783",
+      "question_text": "用圆规画一个周长是6.28厘米的圆&#xff0c;圆规两脚之间的距离是( )。<br />A.1厘米<br />B.2厘米<br />C.6.28厘米"
+    },
+    {
+      "knowledge_points": [
+        "圆的周长"
+      ],
+      "orig_knowledge_points": [
+        "圆的周长"
+      ],
+      "processed_text": "要画一个周长是18.84厘米的圆,用圆规的两脚在直尺上应量取多少厘米的距离( ) A. 2厘米 B. 3厘米 C. 6厘米 D. 4厘米",
+      "question_id": "4094570",
+      "question_text": "要画一个周长是18.84厘米的圆&#xff0c;用圆规的两脚在直尺上应量取多少厘米的距离( )<br/>A. 2厘米<br/>B. 3厘米<br/>C. 6厘米<br/>D. 4厘米"
+    },
+    {
+      "knowledge_points": [
+        "圆的周长",
+        "长方形和正方形的周长"
+      ],
+      "orig_knowledge_points": [
+        "长方形的周长",
+        "圆的周长"
+      ],
+      "processed_text": "如图,圆的周长是12.56厘米,长方形的周长是14厘米,长方形的长是 #BLANK# 厘米.",
+      "question_id": "8374918",
+      "question_text": "<img src=\"http://nos.netease.com/yd-searchq/e7a6db3b-5eb6-467b-a8c8-951f218503f4.jpg\" style=\"vertical-align:middle;FLOAT:right;\">如图，圆的周长是12.56厘米，长方形的周长是14厘米，长方形的长是____厘米．"
+    },
+    {
+      "knowledge_points": [
+        "圆的周长"
+      ],
+      "orig_knowledge_points": [
+        "圆的周长"
+      ],
+      "processed_text": "如图中,大圆半径等于小圆的直径,大圆的周长是 $$\\text{cm}$$.",
+      "question_id": "11688030",
+      "question_text": "<div data-hw-type=\"question\" data-hw-level=\"0\"><div data-hw-type=\"body\"><p>如图中，大圆半径等于小圆的直径，大圆的周长是&nbsp;<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>&nbsp;$$\\text{cm}$$．</p>\n<p style=\"text-align: right;\"><img alt=\"\" height=\"136\" src=\"http://nos.netease.com/yd-searchq/62f13863-98dc-42f4-ae47-b7d6aa74b537.svg\" width=\"136\" /></p></div></div>"
+    },
+    {
+      "knowledge_points": [
+        "圆的周长"
+      ],
+      "orig_knowledge_points": [
+        "画圆",
+        "圆的周长"
+      ],
+      "processed_text": "作直径为4厘米的半圆,并求这个半圆的周长.",
+      "question_id": "3097523",
+      "question_text": "作直径为4厘米的半圆&#xff0c;并求这个半圆的周长&#xff0e;"
+    },
+    {
+      "knowledge_points": [
+        "圆的周长"
+      ],
+      "orig_knowledge_points": [
+        "圆的周长",
+        "圆的面积"
+      ],
+      "processed_text": "周长相等的平行四边形、长方形、正方形、圆,围成的面积( )最大. A.平行四边形 B.长方形 C.正方形 D.圆",
+      "question_id": "39345080",
+      "question_text": "周长相等的平行四边形、长方形、正方形、圆，围成的面积(　　)最大． <p class=\"question_option\">A.平行四边形<br/>B.长方形<br/>C.正方形<br/>D.圆 </p>"
+    },
+    {
+      "knowledge_points": [
+        "圆锥的体积",
+        "圆的周长",
+        "圆柱的体积"
+      ],
+      "orig_knowledge_points": [
+        "圆的周长",
+        "圆柱的体积（容积）",
+        "圆锥的体积（容积）"
+      ],
+      "processed_text": "一个圆柱和一个圆锥体积相等底面积也相等,如果圆柱高6厘米、则圆锥高( )厘米;一个圆柱和一个圆锥体积相等高也相等,如果圆锥的体积是27平方厘米,则圆柱的底面积是( )平方厘米;一个圆锥比与它等底等高的圆柱的体积少2.4立方分米,这个圆锥的体积是( )立方分米。",
+      "question_id": "37826454",
+      "question_text": "一个圆柱和一个圆锥体积相等底面积也相等&#xff0c;如果圆柱高6厘米、则圆锥高( )厘米&#xff1b;一个圆柱和一个圆锥体积相等高也相等&#xff0c;如果圆锥的体积是27平方厘米&#xff0c;则圆柱的底面积是( )平方厘米&#xff1b;一个圆锥比与它等底等高的圆柱的体积少2.4立方分米&#xff0c;这个圆锥的体积是( )立方分米。"
+    },
+    {
+      "knowledge_points": [
+        "圆的周长"
+      ],
+      "orig_knowledge_points": [
+        "圆的周长"
+      ],
+      "processed_text": "在他们测量的高度上,这棵树树干的半径大约是多少米?(得数保留一位小数)",
+      "question_id": "4094483",
+      "question_text": "在他们测量的高度上&#xff0c;这棵树树干的半径大约是多少米&#xff1f;(得数保留一位小数) <br /><img width=\"272\" height=\"160\" src=\"http://oimageb8.ydstatic.com/image?id=-3132050648160290076&product=dict\" />"
+    },
+    {
+      "knowledge_points": [
+        "圆的周长"
+      ],
+      "orig_knowledge_points": [
+        "圆的周长"
+      ],
+      "processed_text": "当圆规两脚间的距离为4cm时,画出圆的周长是()cm。",
+      "question_id": "41875051",
+      "question_text": "当圆规两脚间的距离为4cm时&#xff0c;画出圆的周长是()cm。"
+    },
+    {
+      "knowledge_points": [
+        "圆的周长"
+      ],
+      "orig_knowledge_points": [
+        "圆的周长"
+      ],
+      "processed_text": "一个圆的周长是188.4m,那么它的半径是( )cm。 一根铁丝正好折成一个等边三角形,它的边长为31.4厘米,如果把同样长的铁丝围成一个圆,这个圆的直径长( )厘米。 一只挂钟的分针长20厘米,经过30分钟后,分针的尖端所走的路程是( )厘米,经过45分钟所走的路程是( )厘米。",
+      "question_id": "47319391",
+      "question_text": "一个圆的周长是188.4m&#xff0c;那么它的半径是( )cm。<br />一根铁丝正好折成一个等边三角形&#xff0c;它的边长为31.4厘米&#xff0c;如果把同样长的铁丝围成一个圆&#xff0c;这个圆的直径长( )厘米。<br />一只挂钟的分针长20厘米&#xff0c;经过30分钟后&#xff0c;分针的尖端所走的路程是( )厘米&#xff0c;经过45分钟所走的路程是( )厘米。"
+    },
+    {
+      "knowledge_points": [
+        "圆的周长",
+        "按比分配问题"
+      ],
+      "orig_knowledge_points": [
+        "圆的周长",
+        "圆的面积",
+        "比的应用"
+      ],
+      "processed_text": "把一个长方形按3:1放大后,下面的说法中,错误的是( )。 A.长扩大到原来的3倍 B.宽扩大到原来的3倍 C.周长扩大到原来的3倍 D.面积扩大到原来的3倍",
+      "question_id": "40466323",
+      "question_text": "把一个长方形按3&#xff1a;1放大后&#xff0c;下面的说法中&#xff0c;错误的是( )。<br />A&#xff0e;长扩大到原来的3倍<br />B&#xff0e;宽扩大到原来的3倍<br />C&#xff0e;周长扩大到原来的3倍<br />D&#xff0e;面积扩大到原来的3倍"
+    },
+    {
+      "knowledge_points": [
+        "圆的周长"
+      ],
+      "orig_knowledge_points": [
+        "圆的周长",
+        "圆的面积"
+      ],
+      "processed_text": "一个圆的周长扩大到原来的3倍,它的面积就扩大到原来的()倍。 A.3 B.6 C.9 D.12",
+      "question_id": "42482787",
+      "question_text": "<p>一个圆的周长扩大到原来的3倍，它的面积就扩大到原来的()倍。</p>  <p>A.3</p>  <p>B.6</p>  <p>C.9</p>  <p>D.12</p>"
+    }
+  ],
+  "msg": "操作成功",
+  "n": 12
+}

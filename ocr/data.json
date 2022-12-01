@@ -1,0 +1,54 @@
+{
+  "msg": "数据获取成功",
+  "code": 200,
+  "data": [
+    {
+      "question_text": "http://test1.deepsoft-tech.com:6789/question/37491488.html",
+      "processed_text": "量一量,在长方形中画一个最大的正方形。",
+      "analysis_url": "http://test1.deepsoft-tech.com:6789/answer/37491488.html",
+      "knowledge": [
+        "厘米和米",
+        "四边形的认识"
+      ],
+      "orig_knowledge_points_links": [
+        {
+          "img": "http://oss.deepsoft-tech.com:9000/knowledge/knowledgeimg/厘米和米.jpg",
+          "link": "http://oss.deepsoft-tech.com:9000/knowledge/video/da7e7b79-1ba2-4931-b861-39dd44fe1df71.LiMiHeMi.MP4"
+        },
+        {
+          "img": "http://oss.deepsoft-tech.com:9000/knowledge/knowledgeimg/四边形的认识.jpg",
+          "link": "http://oss.deepsoft-tech.com:9000/knowledge/video/c3668344-8f9a-499c-a2ac-d876bc0957a317.SiBianXingDeRenShi.MP4"
+        }
+      ]
+    },
+    {
+      "question_text": "http://test1.deepsoft-tech.com:6789/question/50175164.html",
+      "processed_text": "用卡片  ,  ,  ,  组成一个最大的四位数是 ,这个四位数读作 .",
+      "analysis_url": "http://test1.deepsoft-tech.com:6789/answer/50175164.html",
+      "knowledge": [
+        "10000以内数的认识"
+      ],
+      "orig_knowledge_points_links": [
+        {
+          "img": "http://oss.deepsoft-tech.com:9000/knowledge/knowledgeimg/10000以内数的认识.jpg",
+          "link": "http://oss.deepsoft-tech.com:9000/knowledge/video/f68a7453-3e4e-4ac4-b6a3-88a865b62f1f17.10000YiNeiShuDeRenShi.MP4"
+        }
+      ]
+    },
+    {
+      "question_text": "http://test1.deepsoft-tech.com:6789/question/6277801.html",
+      "processed_text": "用7、5、0、4组成一个最大的四位数是 ,组成一个最小的四位数是 .",
+      "analysis_url": "http://test1.deepsoft-tech.com:6789/answer/6277801.html",
+      "knowledge": [
+        "10000以内数的认识"
+      ],
+      "orig_knowledge_points_links": [
+        {
+          "img": "http://oss.deepsoft-tech.com:9000/knowledge/knowledgeimg/10000以内数的认识.jpg",
+          "link": "http://oss.deepsoft-tech.com:9000/knowledge/video/f68a7453-3e4e-4ac4-b6a3-88a865b62f1f17.10000YiNeiShuDeRenShi.MP4"
+        }
+      ]
+    }
+  ],
+  "businessCode": -1
+}
